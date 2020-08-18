@@ -2,7 +2,7 @@
 ---------------------------------------
 
 
- #### 🔭I’m currently working on ...#### 
+ #### 🔭I’m currently working on ... #### 
 [This drawing app](https://github.com/george-staniland/svg-draw) - playing with SVG animations and the in-built CSS Colours
  #### 🌱 I’m currently learning ...  #### 
 [Shopify](https://www.shopify.com/about) implementation
