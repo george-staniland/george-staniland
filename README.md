@@ -1,5 +1,5 @@
 ## Hi, I'm George ✋  ##
-###### I'm a full stack web developer with background in photography and design. 
+I'm a full stack web developer with background in photography and design. 
 
 #### 🔭I’m currently working on ... #### 
 [This drawing app](https://github.com/george-staniland/Colouring-Book) - a digital colouring book using SVG animations, CSS Colours and React <br/>
