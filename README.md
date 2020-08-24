@@ -12,8 +12,9 @@ Shopify store implementation, Advanced CSS with Sass and CSS Grid, and hosting o
 <details>
 <summary> 🔨 Recent projects: ...</summary>
 <br>
-* Apple Farmer
-* Hangman
+- apple
+- thing
+- thing
 </details>
 
  ####  ⚡ Fun fact: ...  #### 
