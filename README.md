@@ -10,7 +10,7 @@ Shopify store implementation, Advanced CSS with Sass and CSS Grid, and hosting o
 
 
 <details>
-<summary> 🔨 Recent projects: ...</summary>
+<summary> 🔨  Recent projects: ...</summary>
 <br>
  
 - [Hangman](https://github.com/george-staniland/Hangman)
