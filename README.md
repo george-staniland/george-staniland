@@ -1,8 +1,8 @@
 ## Hi, I'm George ✋  ##
-I'm a full stack web developer with background in photography and design. 
+###### I'm a full stack web developer with background in photography and design. 
 
 #### 🔭I’m currently working on ... #### 
-[This drawing app](https://github.com/george-staniland/Colouring-Book) - a digital colouring book using SVG animations, CSS Colours and React
+[This drawing app](https://github.com/george-staniland/Colouring-Book) - a digital colouring book using SVG animations, CSS Colours and React <br/>
 [This web app](https://github.com/george-staniland/Cheeky-Road-Trip) - for making roadtrips better 
 
  #### 🌱 I’m currently learning ...  #### 
@@ -10,10 +10,10 @@ Shopify store implementation, Advanced CSS with Sass and CSS Grid, and hosting o
 
 
 <details>
-<summary> #### 🔨  Recent projects: ...  #### </summary>
+<summary> 🔨 Recent projects: ...</summary>
 <br>
-. thing
- . noth thing
+* Apple Farmer
+* Hangman
 </details>
 
  ####  ⚡ Fun fact: ...  #### 
