@@ -6,8 +6,12 @@ I'm a full stack web developer with background in photography and design.
 [This web app](https://github.com/george-staniland/Cheeky-Road-Trip) - for making roadtrips better 
 
  #### 🌱 I’m currently learning ...  #### 
-Shopify store implementation, Advanced CSS with Sass and CSS Grid, and hosting on Amazon Web Services.
+* Data visualistion and use of the Fitbit API
+* Hosting in AWS and Google Cloud Platform
 
+
+ ####  ⚡ Fun fact: ...  #### 
+I once walked out around the Scottish countryside for a job
 
 <details>
 <summary> 🔨 Recent projects: ...</summary>
@@ -17,6 +21,3 @@ Shopify store implementation, Advanced CSS with Sass and CSS Grid, and hosting o
 - [Fruit Season](https://github.com/george-staniland/Fruit-Season)
 
 </details>
-
- ####  ⚡ Fun fact: ...  #### 
-I once walked out around the Scottish countryside for a job
