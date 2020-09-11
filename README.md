@@ -3,9 +3,13 @@ I'm a full stack web developer with background in photography and design.
 
 #### 🔭I’m currently working on ... #### 
 
-[This 'road trip' app](https://github.com/george-staniland/Cheeky-Road-Trip) - so you are never without a bathroom on a roadtrip!<br/>
-[This strange experiment](https://github.com/george-staniland/fitbit-api-sandbox) - utilising the Fitbit API <br/>
-[This drawing app](https://github.com/george-staniland/Colouring-Book) - a digital colouring book using in-line SVG images, React, and playful CSS colours <br/>
+[This 'road trip' app](https://github.com/george-staniland/Cheeky-Road-Trip) - so you are never without a bathroom on a roadtrip!
+<br/>
+[This strange experiment](https://github.com/george-staniland/fitbit-api-sandbox) - utilising the Fitbit API
+<br/>
+[This drawing app](https://github.com/george-staniland/Colouring-Book) - a digital colouring book using in-line SVG images, React, and playful CSS colours
+<br/>
+<br/>
 
 
 
