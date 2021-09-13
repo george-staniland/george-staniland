@@ -1,7 +1,7 @@
 ## Hi, I'm George ✋  ##
 I'm a full stack web developer with background in photography and design. 
 
-#### 🔭I’m currently working on ... #### 
+<!-- #### 🔭I’m currently working on ... #### 
 
 [This 'road trip' app](https://github.com/george-staniland/Cheeky-Road-Trip) - so you are never without a bathroom on a roadtrip!
 <br/>
@@ -28,4 +28,4 @@ I once walked out around the Scottish countryside for a job
 - [Hangman](https://github.com/george-staniland/Hangman)
 - [Fruit Season](https://github.com/george-staniland/Fruit-Season)
 
-</details>
+</details> -->
