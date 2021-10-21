@@ -1,5 +1,5 @@
 ## Hi, I'm George ✋  ##
-I'm a full stack web developer with background in photography and design. 
+
 
 <!-- #### 🔭I’m currently working on ... #### 
 
