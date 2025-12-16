@@ -1,3 +1,3 @@
 ## Hi, I'm George ✋  ##
 
-I'm a developer specialsing in Web Technologies. Currently in Berlin, Germany 🕸️
+I'm a developer specialsing in Web Technologies 🕸️
